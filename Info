@@ -1,1 +1,1 @@
-q
+This project uses CNN based autoencoder in Pytorch to reconstruct CIFAR10 dataset
